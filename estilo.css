@@ -1,0 +1,10 @@
+p {
+  background-color: #fff;
+  padding: 20px 20px;
+  box-sizing: border-box;
+}
+
+.titulo{
+  color: #ee00ff;
+  border: 2px aquamarine dotted;
+}
