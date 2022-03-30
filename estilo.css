@@ -1,10 +1,27 @@
-p {
-  background-color: #fff;
-  padding: 20px 20px;
-  box-sizing: border-box;
+nav{
+  background-color: #16A085;
+  margin: 0;
 }
-
+ul.menu{
+  margin: 0;
+}
+.menu{
+  text-align: center;
+}
+.menu li{
+  display: inline-block;
+  margin: 0;
+}
+.menu a{
+  padding: 30px;
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+.menu a:hover{
+background:#1ABC9C ;
+}
 .titulo{
-  color: #ee00ff;
-  border: 2px aquamarine dotted;
+  background-color: #333;
+  overflow: hidden;
 }
